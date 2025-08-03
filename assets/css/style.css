@@ -106,7 +106,7 @@ a {
 img { height: auto; }
 
 button {
-  background: #f47d7d;
+  background: none;
   border: none;
   font: inherit;
   cursor: pointer;
@@ -989,3 +989,4 @@ body.nav-active { overflow: hidden; }
 
 
 }
+
