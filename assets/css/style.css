@@ -106,7 +106,7 @@ a {
 img { height: auto; }
 
 button {
-  background: none;
+  background: #f47d7d;
   border: none;
   font: inherit;
   cursor: pointer;
@@ -986,5 +986,6 @@ body.nav-active { overflow: hidden; }
   .hero-title { word-break: normal; }
 
   .hero .section-text { margin-block-end: 52px; }
+
 
 }
